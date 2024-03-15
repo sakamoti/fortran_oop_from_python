@@ -1,0 +1,5 @@
+*.o
+*.so
+*.mod
+c_main
+f_main
